@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: 'old-english-text-mt-regular', sans-serif;
+    background-image: linear-gradient(to bottom, #ff0000, #000000); 
+    border: 10px solid black;
+    margin: 0px;
+  }
+  .post{
+    text-align: center;
+    font-family: 'old-english-text-mt-regular', sans-serif;
+    background-image: linear-gradient(to bottom, #ff0000, #000000); 
+    border: 10px solid black;
+    margin: 0px;
+  }
+
+.moon{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    font-family: 'Trebuchet MS', sans-serif;
+    border: 10px solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.memesdesexo{
+    color:aqua
+}
+.macaco{
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    background-image: url("imagens/lua.jpeg");
+    background-size:cover
+}
